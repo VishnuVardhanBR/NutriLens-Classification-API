@@ -1,0 +1,46 @@
+biryani
+burger
+butter naan
+chai
+chana_masala
+chapati
+chicken_65
+chicken_curry
+chicken_wings
+chocolate_cake
+chole bhature
+dairy product
+dal_makhani
+dhokla
+egg
+fafda
+french_fries
+fried_rice
+gajar_halwa
+garlic_bread
+gulab jamun
+ice_cream
+idli
+jalebi
+kaju_katli
+kulfi
+laddu
+masala_dosa
+mirchi_bajji
+momos
+murukku
+mysore_bonda
+noodles-pasta
+paani_puri
+pakora
+paneer sabzi
+paratha
+pav bhaji
+pizza
+poori
+rasgulla
+samosa
+seafood
+upma
+uttapam
+vada
