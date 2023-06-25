@@ -45,5 +45,3 @@ This repository contains a Flask API that loads a TensorFlow Lite model and prov
    The API will be accessible at `http://localhost:8000/predict`.
 
 2. Send a POST request to `http://localhost:8000/predict` with an image file included in the request. The API will return a JSON response containing the predicted label and confidence.
-
-```
